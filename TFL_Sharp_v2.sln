@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFL_Sharp_v2", "TFL_Sharp_v2.csproj", "{026EBBD9-6AA1-4750-9743-6FBB396C64BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026EBBD9-6AA1-4750-9743-6FBB396C64BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026EBBD9-6AA1-4750-9743-6FBB396C64BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026EBBD9-6AA1-4750-9743-6FBB396C64BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026EBBD9-6AA1-4750-9743-6FBB396C64BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18447EF4-D629-440F-BF79-5ECDDC51022B}
+	EndGlobalSection
+EndGlobal
